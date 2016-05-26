@@ -1,3 +1,7 @@
+/*
+by Avinash:
+Program to check if their is a cycle in Undirected graph using Union-Find data Structure.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 typedef vector<int> vi;
@@ -46,5 +50,4 @@ int main()
   cout<<"cycle_found\n";
   else
   cout<<"no cycle found\n";
-
 }
