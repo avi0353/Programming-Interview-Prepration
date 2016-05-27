@@ -1,3 +1,7 @@
+/*
+by Avinash:
+Dynamic programming approach to find the longest common subsequence of two strings.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int LCS(string x,string y)
